@@ -1,16 +1,20 @@
 ---
-name: Tails Azimuth
+name: Daniel Carmona
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Startup Founder
+company: Rapidand
+email: daniel@carmona.email
+twitter: https://twitter.com/danipolymath
+linkedin: https://www.linkedin.com/in/danicarmonaserrat
+github: https://github.com/mrpolymath
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Hi! My name is Daniel Carmona.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+I'm an Aerospace Engineer, but I've never worked in the aerospace sector (yet). Instead, I've been bootstraping businesses since the first year of college (and also did some consulting for a private company in the USA).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+This blog starts from the beginning, and the purpose is to share my experiences of building companies from scratch. Over the last 9 years I've learned a lot about things like idea generation, leadership, funding, techonology... And I want to share it all.
+
+Lastly, I'll esporadically talk about the future, in the form of ideas that I might start working on soon or that I'd like other to work on.
+
+I hope you enjoy this!
